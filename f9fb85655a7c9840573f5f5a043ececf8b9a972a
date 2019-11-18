@@ -1,0 +1,1 @@
+{"jobID":"a14c88db-874c-5731-a7f4-8bfa093cfad6","spec":{"type":"policy","cause":{"Message":"","User":"Gururagavendran Balaji \u003cgbalajimani@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
